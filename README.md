@@ -61,7 +61,4 @@ For any inquiries or additional information, please contact:
 
 Thank you for checking out the Supply Chain Management Project! We hope you find the analysis and visualizations helpful in understanding and optimizing supply chain processes.
 
----
-
-Feel free to modify or expand upon the tech stack section based on the actual tools and technologies used in your project.
 
