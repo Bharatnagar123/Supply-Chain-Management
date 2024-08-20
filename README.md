@@ -33,7 +33,7 @@ This project involves a detailed analysis of supply chain data to identify trend
 - **Description**: The dataset includes various aspects of supply chain operations such as inventory levels, shipment records, order fulfillment rates, and more.
 ## Project Files
 
-- **Analysis in Excel**: `Supply Chain Analysis.xlsx’
+- **Analysis in Excel**: `Supply Chain Analysis.xlsx `
 - **Power BI Report**: `Supply Chain Analysis.pbix `
 - **Tableau Dashboard**: `Supply Chain Management-Tableau Dashboard.twbx`
 
